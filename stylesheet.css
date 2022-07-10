@@ -112,6 +112,63 @@ button{
     height: 308px;
 }
 
+/*QUOTE*/
+
+.quotecont{
+    background-color: #e5e7eb ;
+    font-style: italic;
+    font-size: 36px;
+    padding: 200px;
+}
+
+#author{
+    text-align: end;
+    font-weight: bold;
+}
+
+/*BOTTOM*/
+
+.bottom{
+    padding: 100px;
+}
+
+.bottom2{
+    background-color: #3882f6;
+    font-size: 18px;
+    padding: 90px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+
+}
+
+#button2{
+    background-color: #3882f6;
+    color: #f9faf8;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: #f9faf8;
+}
+
+#call{
+    font-weight: bold;
+}
+
+/*FOOTER*/
+
+.footer{
+    background-color: #1f1f1f;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+
+
+
 
 
 
